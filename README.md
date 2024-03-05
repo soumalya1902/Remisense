@@ -64,11 +64,13 @@ Jan Sevak is a web application developed using Flask, a web framework in Python 
 - TensorFlow
 - Scikit-learn
 
-<!-- ## Contributors
+## Contributors
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2] -->
+- [Soumalya Bhattacharyya]
+- [Ritam Koley]
+- [Sayan Pan]
+- [Soumyadeep Banerjee]
+- [Dinayan Mallick]
 
 
 
