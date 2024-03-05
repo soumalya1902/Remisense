@@ -9,11 +9,11 @@ Remisense is a web application developed using Flask, a web framework in Python 
 ## Contributors
 
 ### Team Hackonauts
-- [Soumalya Bhattacharyya]
-- [Ritam Koley]
-- [Sayan Pan]
-- [Soumyadeep Banerjee]
-- [Dinayan Mallick]
+- Soumalya Bhattacharyya
+- Ritam Koley
+- Sayan Pan
+- Soumyadeep Banerjee
+- Dinayan Mallick
 
 ## Theme - Healthcare
 
