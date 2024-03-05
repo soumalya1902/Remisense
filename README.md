@@ -2,7 +2,22 @@
 
 <img src="static/images/doctors-animate.svg" align="right" height="300px">
 
-Jan Sevak is a web application developed using Flask, a web framework in Python that aims to assist patients in obtaining the necessary medical care for their needs. The system allows users to register as patients or doctors, book appointments, and predict diseases based on symptoms. Doctors can view and manage appointments, while patients can track their appointments and update their profiles. Additionally, the system provides information on various health-related topics through blog posts and also analyses mental health conditiion of patients.
+Remisense is a web application developed using Flask, a web framework in Python that aims to assist patients in obtaining the necessary medical care for their needs. The system allows users to register as patients or doctors, book appointments, and predict diseases based on symptoms. Doctors can view and manage appointments, while patients can track their appointments and update their profiles. Additionally, the system provides information on various health-related topics through blog posts and also analyses mental health conditiion of patients.
+
+## Event Name - NinjaSprint Ideathon 1.0
+
+## Contributors
+
+### Team Hackonauts
+- [Soumalya Bhattacharyya]
+- [Ritam Koley]
+- [Sayan Pan]
+- [Soumyadeep Banerjee]
+- [Dinayan Mallick]
+
+## Theme - Healthcare
+
+## Problem Statement - Develop a comprehensive, user-centric Personalized Healthcare Platform integrating a Multi-Disease Predictor Tool and Telemedicine Support System. The system must efficiently analyze patient data, predict multiple diseases, and facilitate remote consultations, ensuring timely interventions and personalized care delivery for improved health outcomes.
 
 ## Features
 
@@ -63,14 +78,3 @@ Jan Sevak is a web application developed using Flask, a web framework in Python 
 - NumPy
 - TensorFlow
 - Scikit-learn
-
-## Contributors
-
-- [Soumalya Bhattacharyya]
-- [Ritam Koley]
-- [Sayan Pan]
-- [Soumyadeep Banerjee]
-- [Dinayan Mallick]
-
-
-
