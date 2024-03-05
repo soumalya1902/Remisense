@@ -70,12 +70,3 @@ Develop a comprehensive, user-centric Personalized Healthcare Platform integrati
 1. Clone the repository: `git clone https://github.com/your-username/Remisense.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
-
-## Dependencies
-
-- Flask
-- Flask-SQLAlchemy
-- Plotly
-- NumPy
-- TensorFlow
-- Scikit-learn
