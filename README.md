@@ -24,7 +24,7 @@ Develop a comprehensive, user-centric Personalized Healthcare Platform integrati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,flask,git,github,php,mysql,netlify,vercel,pycharm,tensorflow,sklearn" />
   </a>
 </p>
 
