@@ -17,7 +17,8 @@ Remisense is a web application developed using Flask, a web framework in Python 
 
 ## Theme - Healthcare
 
-## Problem Statement - Develop a comprehensive, user-centric Personalized Healthcare Platform integrating a Multi-Disease Predictor Tool and Telemedicine Support System. The system must efficiently analyze patient data, predict multiple diseases, and facilitate remote consultations, ensuring timely interventions and personalized care delivery for improved health outcomes.
+## Problem Statement
+Develop a comprehensive, user-centric Personalized Healthcare Platform integrating a Multi-Disease Predictor Tool and Telemedicine Support System. The system must efficiently analyze patient data, predict multiple diseases, and facilitate remote consultations, ensuring timely interventions and personalized care delivery for improved health outcomes.
 
 ## Features
 
