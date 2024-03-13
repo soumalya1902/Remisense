@@ -6,4 +6,4 @@ tensorflow
 scikit-learn
 pandas
 python-dotenv
-gunicorn==19.7.1
+
